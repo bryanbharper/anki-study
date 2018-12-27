@@ -1,3 +1,5 @@
+using app.models;
+
 namespace app
 {
     public class BlankCanvas
