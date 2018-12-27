@@ -1,0 +1,8 @@
+namespace app.contracts
+{
+    public interface IIterator<T>
+    {
+        bool HasNext();
+        T Next();
+    }
+}
