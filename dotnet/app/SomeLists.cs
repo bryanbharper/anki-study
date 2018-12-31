@@ -24,7 +24,10 @@ namespace app
         };
 
         //////////////
-        
+        public void Foo()
+        {
+            
+        }
 
     }
 }
