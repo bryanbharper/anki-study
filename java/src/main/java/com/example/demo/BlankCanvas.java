@@ -1,6 +1,6 @@
 package com.example.demo;
 
-public class BlankCanvast {
+public class BlankCanvas {
 
     void fooBar() {
         
