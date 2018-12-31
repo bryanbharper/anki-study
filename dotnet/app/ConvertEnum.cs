@@ -8,6 +8,6 @@ namespace app
         static IEnumerable<string> eno;
 
         // List<string> listo = 
-        // Array<string> listo = 
+        // string[] listo =
     }
 }
