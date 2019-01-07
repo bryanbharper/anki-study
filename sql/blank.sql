@@ -1,4 +1,5 @@
-CREATE table A (Col INTEGER);
-CREATE table B (Col INTEGER);
-CREATE table Collection (Col1 INTEGER, Col2 INTEGER, Col TEXT);
+CREATE TABLE A (Col INTEGER);
+CREATE TABLE B (Col INTEGER);
+CREATE TABLE Collection (Col1 INTEGER, Col2 INTEGER, Col TEXT);
+CREATE TABLE exercise_logs (id INTEGER PRIMARY KEY, type TEXT, minutes INTEGER, calories INTEGER, heart_rate INTEGER);
 
