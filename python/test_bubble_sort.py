@@ -1,7 +1,7 @@
 import unittest
 
 
-def bubble_sort(list):
+def bubble_sort(l):
     pass
 
 

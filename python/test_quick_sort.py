@@ -1,7 +1,6 @@
 import unittest
 
-
-def quick_sort(list, lo, hi):
+def quick_sort(l, lo, hi):
     pass
 
 

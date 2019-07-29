@@ -1,7 +1,7 @@
 import unittest
 
 
-def binary_search(list, item):
+def binary_search(l, item):
     # Implement Here
     return 0
 
