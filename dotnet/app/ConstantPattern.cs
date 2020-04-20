@@ -6,9 +6,9 @@ namespace app.isop
 		{
 				public void Foobar()
 				{
-					var blah = 2;
+					int? blah = 2;
 
-					if(blah == 2) Console.WriteLine("It's two.");
+					if(blah != 2) Console.WriteLine("It's not two.");
 					if(blah == null) Console.WriteLine("It's null.");
 				}
 		}
