@@ -4,25 +4,23 @@ using System.Linq;
 
 namespace anki.switch_expression
 {
-	public class SwitchExpression
+	class SwitchExpression
 	{
 
-		public T OldSchool<T>(IEnumerable<T> sequence)
+		// Utilize a switch expression
+		public int OldSchool(Object oby)
 		{
-			if (sequence.GetType() == typeof(Array))
-			{
-				var array = sequence as Array;
-				if (array.Length == 2) return (T)array.GetValue(1);     // An Array of two elements, second element
-				return (T)array.GetValue(0);                            // Any Array, first element
-			}
+			if ((int?)oby == 12) return 0;
+			if (oby is int) return 1;
+			if ((oby as string).Contains("Hello")) return 2;
+			if((oby as Cat).Age == 3) return 3;
 
-			if (sequence.GetType() == typeof(IEnumerable<T>))
-			{
-				var list = sequence as IEnumerable<T>;
-				if (list.Count() < 3) return list.Last();   // An Enumerable of less than three elements, last element
-			}
-
-			throw new Exception(nameof(sequence));                    // None of the above
+			throw new Exception("Unsuported");
 		}
+	}
+
+	class Cat
+	{
+		public int Age { get; set; }
 	}
 }
