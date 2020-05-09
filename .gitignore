@@ -9,4 +9,4 @@ find/*
 __pychache__/*
 
 *.pyc
-.ionide/symbolCache.db
+symbolCache.db
