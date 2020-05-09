@@ -3,6 +3,7 @@ bin/
 find/
 
 .idea/
+.ionide/
 
 __pychache__/*
 
