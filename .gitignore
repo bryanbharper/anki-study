@@ -1,9 +1,10 @@
-obj/
-bin/
-find/
+obj/*
+bin/*
+find/*
 
-.idea/
-.ionide/
+.idea/*
+.ionide/*
+.vscode/ *
 
 __pychache__/*
 

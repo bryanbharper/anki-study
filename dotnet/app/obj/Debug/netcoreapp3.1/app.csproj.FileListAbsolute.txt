@@ -1,0 +1,13 @@
+C:\Users\bryan\workspace\Anki\dotnet\app\bin\Debug\netcoreapp3.1\app.exe
+C:\Users\bryan\workspace\Anki\dotnet\app\bin\Debug\netcoreapp3.1\app.deps.json
+C:\Users\bryan\workspace\Anki\dotnet\app\bin\Debug\netcoreapp3.1\app.runtimeconfig.json
+C:\Users\bryan\workspace\Anki\dotnet\app\bin\Debug\netcoreapp3.1\app.runtimeconfig.dev.json
+C:\Users\bryan\workspace\Anki\dotnet\app\bin\Debug\netcoreapp3.1\app.dll
+C:\Users\bryan\workspace\Anki\dotnet\app\bin\Debug\netcoreapp3.1\app.pdb
+C:\Users\bryan\workspace\Anki\dotnet\app\obj\Debug\netcoreapp3.1\app.csprojAssemblyReference.cache
+C:\Users\bryan\workspace\Anki\dotnet\app\obj\Debug\netcoreapp3.1\app.csproj.CoreCompileInputs.cache
+C:\Users\bryan\workspace\Anki\dotnet\app\obj\Debug\netcoreapp3.1\app.AssemblyInfoInputs.cache
+C:\Users\bryan\workspace\Anki\dotnet\app\obj\Debug\netcoreapp3.1\app.AssemblyInfo.cs
+C:\Users\bryan\workspace\Anki\dotnet\app\obj\Debug\netcoreapp3.1\app.dll
+C:\Users\bryan\workspace\Anki\dotnet\app\obj\Debug\netcoreapp3.1\app.pdb
+C:\Users\bryan\workspace\Anki\dotnet\app\obj\Debug\netcoreapp3.1\app.genruntimeconfig.cache

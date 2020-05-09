@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJmS8lAzEnVbs8QghKtqDV8wmzJqpkOAzt9vo1lwqpMxdI20XOTxxj1juFejHovyjjP8TR7IdQWMG221A/cc4Q==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\Anki\\fsharp\\fsharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bryan\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
