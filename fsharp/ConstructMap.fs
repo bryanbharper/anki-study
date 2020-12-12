@@ -14,4 +14,4 @@ module E =
         let map f = f >> rtn |> bind
         eF |> bind (fun f -> map f e)
 
-    // let map (f: 'a -> 'b): E<'a> -> E<'b> = 
+    // let map (f: 'a -> 'b): E<'a> -> E<'b> =
