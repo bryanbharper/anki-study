@@ -15,3 +15,5 @@ module E =
         binder a
 
     // let apply (ef: E<'a -> 'b>) (e: E<'a>): E<'b> =
+
+    // let apply' (ef: E<'a -> 'b>): E<'a> -> E<'b> =
